@@ -148,3 +148,4 @@ AUTH_USER_MODEL = 'common.User'
 
 # GDPR settings.
 GDPR_SETTINGS = {}
+

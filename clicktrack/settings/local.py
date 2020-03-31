@@ -44,3 +44,4 @@ INTERNAL_IPS = [
 
 WEBPACK_MANIFEST_FILE = os.path.join(BASE_DIR, '../webpack-stats.local.json')
 
+SECURE_COOKIES = False
