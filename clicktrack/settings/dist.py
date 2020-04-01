@@ -5,7 +5,7 @@ DEBUG = False
 
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 
-ALLOWED_HOSTS = ['clicktrack.makimo.pl', 'localhost']
+ALLOWED_HOSTS = ['clicktrack.makimo.pl', 'ltr.makimo.pl', 'localhost']
 
 # Admins
 ADMINS = (
